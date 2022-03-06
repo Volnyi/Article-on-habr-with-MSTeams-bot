@@ -1,3 +1,5 @@
+What is this - https://habr.com/ru/post/533640/
+
 1) Install Python 3.7
 2) Install Pycharm
 3) Install modules from requirements.txt pip install -r requirements.txt
