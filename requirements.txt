@@ -1,0 +1,5 @@
+requests==2.7.0
+selenium==3.141.0
+opencv-python==4.4.0.46
+pywinauto==0.6.8
+pyTelegramBotAPI==3.7.4
